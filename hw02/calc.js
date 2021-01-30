@@ -35,9 +35,6 @@ function div(digit)
 
 function clear()
 {
-	if (op != '') {
-		equals()
-	}
 	document.getElementById('screen').innerText = '0'
 	newNum = true
 }
