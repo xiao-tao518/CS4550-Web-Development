@@ -1,0 +1,47 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Xiao Tao
+
+
+2. What hostname did you deploy your app to?
+
+failed to deploy
+
+
+3. What's the URL of your git for this assignment?
+
+https://github.com/xiao-tao518/CS4550-Web-Development/tree/main/hw04
+
+4. How much of the functionality did you complete?
+
+I have completed all of the functionalities, but failed to deploy it.
+
+
+5. Did you successfully deploy? If not, what's broken?
+
+the instruction was not clear, I spent a lot of time and still
+don't know how to make it work.
+
+
+6. How comfortable do you feel with Elixir now?
+
+Not very comfortable
+
+
+7. Which parts of this assignment did you have trouble with, if any?
+
+Deployment.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
